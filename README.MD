@@ -1,4 +1,4 @@
-Title of the mini project: Basic Encryption Decryption Model using Asymmetric Key <br>
+Title of the project: Basic Encryption Decryption Model using Asymmetric Key <br>
 Name : Shushant Kumar, Anmol Horo<br>
 Reg. No.: 16CO143, 16CO206<br>
 Abstract: This model demonstrates the basic working of encryption of data using various keys and methods and then finally decrypting the encrypted data back to get back the original data<br><br>
